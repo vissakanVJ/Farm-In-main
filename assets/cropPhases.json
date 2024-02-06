@@ -1,0 +1,127 @@
+{
+  "Wheat": [{
+      "name": "Germination",
+      "description": "The process of seed sprouting and the growth of roots and shoots.",
+      "duration": "1-2 weeks"
+    },
+    {
+      "name": "Vegetative Stage",
+      "description": "The phase where the plant establishes its leaves and stem growth.",
+      "duration": "4-6 weeks"
+    },
+    {
+      "name": "Reproductive Stage",
+      "description": "The period when the plant produces flowers and develops grains.",
+      "duration": "2-3 weeks"
+    },
+    {
+      "name": "Ripening",
+      "description": "The maturation process where the grains dry and become ready for harvest.",
+      "duration": "2-3 weeks"
+    }
+  ],
+  "Rice": [{
+      "name": "Land Preparation",
+      "description": "The preparation of the field for rice cultivation, including plowing and leveling.",
+      "duration": "1-2 weeks"
+    },
+    {
+      "name": "Seeding",
+      "description": "The sowing of rice seeds in the prepared field.",
+      "duration": "1-2 weeks"
+    },
+    {
+      "name": "Vegetative Stage",
+      "description": "The phase where the rice plant grows leaves, stems, and roots.",
+      "duration": "3-4 weeks"
+    },
+    {
+      "name": "Reproductive Stage",
+      "description": "The period when the plant forms flowers and produces grains.",
+      "duration": "4-6 weeks"
+    },
+    {
+      "name": "Harvesting",
+      "description": "The process of cutting and gathering the mature rice panicles.",
+      "duration": "1-2 weeks"
+    }
+  ],
+  "Maize": [{
+      "name": "Preparation and Planting",
+      "description": "The stage of land preparation and sowing maize seeds.",
+      "duration": "1-2 weeks"
+    },
+    {
+      "name": "Growth and Development",
+      "description": "The phase where the maize plant grows, forming leaves, stalks, and tassels.",
+      "duration": "8-10 weeks"
+    },
+    {
+      "name": "Pollination",
+      "description": "The process of transferring pollen from the tassels to the silks for fertilization.",
+      "duration": "1-2 weeks"
+    },
+    {
+      "name": "Grain Formation",
+      "description": "The period when the maize plant develops kernels on the cobs.",
+      "duration": "3-4 weeks"
+    },
+    {
+      "name": "Harvesting",
+      "description": "The process of collecting mature maize cobs for consumption or further processing.",
+      "duration": "1-2 weeks"
+    }
+  ],
+  "Cotton": [{
+      "name": "Sowing",
+      "description": "The process of planting cotton seeds in the field.",
+      "duration": "1-2 weeks"
+    },
+    {
+      "name": "Vegetative Growth",
+      "description": "The phase where the cotton plant establishes leaves, stems, and branches.",
+      "duration": "6-8 weeks"
+    },
+    {
+      "name": "Flowering",
+      "description": "The stage when the cotton plant produces flowers, which eventually turn into bolls.",
+      "duration": "2-3 weeks"
+    },
+    {
+      "name": "Boll Development",
+      "description": "The period of growth and maturation of cotton bolls, containing cotton fibers.",
+      "duration": "8-10 weeks"
+    },
+    {
+      "name": "Harvesting",
+      "description": "The process of picking mature cotton bolls from the plants.",
+      "duration": "1-2 weeks"
+    }
+  ],
+  "Soybean": [{
+      "name": "Planting",
+      "description": "The process of sowing soybean seeds in the field.",
+      "duration": "1-2 weeks"
+    },
+    {
+      "name": "Vegetative Growth",
+      "description": "The phase where the soybean plant develops leaves, stems, and branches.",
+      "duration": "6-8 weeks"
+    },
+    {
+      "name": "Flowering",
+      "description": "The stage when the soybean plant produces flowers.",
+      "duration": "2-3 weeks"
+    },
+    {
+      "name": "Pod Development",
+      "description": "The period when the soybean plant forms and develops pods.",
+      "duration": "4-6 weeks"
+    },
+    {
+      "name": "Harvesting",
+      "description": "The process of harvesting mature soybean pods.",
+      "duration": "1-2 weeks"
+    }
+  ]
+}

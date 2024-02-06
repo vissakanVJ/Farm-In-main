@@ -1,0 +1,66 @@
+[{
+        "name": "Wheat",
+        "soilTypes": ["Red Soil", "Sandy Loam"],
+        "seasons": ["Summer", "Winter"],
+        "temperatureRange": {
+            "min": 22,
+            "max": 32
+        },
+        "humidityRange": {
+            "min": 40,
+            "max": 60
+        }
+    },
+    {
+        "name": "Rice",
+        "soilTypes": ["Black Soil", "Clay Loam"],
+        "seasons": ["Season 2", "Season 3"],
+        "temperatureRange": {
+            "min": 25,
+            "max": 35
+        },
+        "humidityRange": {
+            "min": 50,
+            "max": 70
+        }
+    },
+    {
+        "name": "Maize",
+        "soilTypes": ["Red Loam", "Sandy Loam"],
+        "seasons": ["Season 1", "Season 3"],
+        "temperatureRange": {
+            "min": 18,
+            "max": 28
+        },
+        "humidityRange": {
+            "min": 35,
+            "max": 55
+        }
+    },
+    {
+        "name": "Cotton",
+        "soilTypes": ["Black Soil", "Clay Loam"],
+        "seasons": ["Summer", "Season 4"],
+        "temperatureRange": {
+            "min": 22,
+            "max": 35
+        },
+        "humidityRange": {
+            "min": 45,
+            "max": 65
+        }
+    },
+    {
+        "name": "Soybean",
+        "soilTypes": ["Red Soil", "Sandy Clay"],
+        "seasons": ["Season 2", "Season 4"],
+        "temperatureRange": {
+            "min": 20,
+            "max": 30
+        },
+        "humidityRange": {
+            "min": 40,
+            "max": 60
+        }
+    }
+]

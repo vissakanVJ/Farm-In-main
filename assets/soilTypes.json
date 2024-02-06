@@ -1,0 +1,17 @@
+{
+  "Chennai": ["Red Soil", "Sandy Loam"],
+  "Coimbatore": ["Black Soil", "Clay Loam"],
+  "Madurai": ["Red Loam", "Sandy Loam"],
+  "Tiruchirappalli": ["Black Cotton Soil", "Clay Loam"],
+  "Tirunelveli": ["Laterite Soil", "Sandy Clay"],
+  "Salem": ["Red Soil", "Sandy Loam"],
+  "Erode": ["Black Soil", "Clay Loam"],
+  "Tiruppur": ["Red Soil", "Sandy Loam"],
+  "Vellore": ["Red Loam", "Sandy Clay"],
+  "Thoothukudi": ["Laterite Soil", "Sandy Clay"],
+  "Thanjavur": ["Black Soil", "Clay Loam"],
+  "Kanyakumari": ["Laterite Soil", "Sandy Clay"],
+  "Dindigul": ["Red Loam", "Sandy Loam"],
+  "Tiruvannamalai": ["Red Soil", "Sandy Loam"],
+  "Namakkal": ["Black Soil", "Clay Loam"]
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+  <link rel="stylesheet" href="assets/style.css">
+  <title>Farm In</title>
+</head>
+<body>
+  <div class="page-loader">
+    <div class="spinner"></div>
+    <div class="txt">Welcome!<br><br>Agriculture Meets Technology</div>
+  </div>
+
+  <div class="card" onload="document.body.style.opacity='1'">
+    <span class="head">Farm In</span>
+    <div class="card-body">
+      <span id="location-info"></span>
+      <span id="soil-type"></span>
+      <span id="season"></span>
+      <span id="climate-info"></span>
+      <span id="crop-recommendation"></span>
+    </div>
+  </div>
+
+  <script src="assets/script.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      setTimeout(() => {
+        document.querySelector('.card').style.opacity = '1';
+        document.querySelector('.page-loader').style.display = 'none';
+      }, 3000); // 3 seconds
+    });
+  </script>
+</body>
+</html>
