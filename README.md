@@ -1,4 +1,4 @@
-# **Farm-In**
+# **Tech-Farm**
 A product for farmers to recommend suitable crops based on the soil type and season with features for tracking crop phases
 
 # **Live Demo:** tech-farm-vissakan.netlify.app
